@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Deco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{C3B44CA5-AB01-4B45-9E43-1A2EB30184BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{7EB6CEA6-F99D-4EA4-BCC5-2EDAA286D9EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C3B44CA5-AB01-4B45-9E43-1A2EB30184BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3B44CA5-AB01-4B45-9E43-1A2EB30184BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3B44CA5-AB01-4B45-9E43-1A2EB30184BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB6CEA6-F99D-4EA4-BCC5-2EDAA286D9EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB6CEA6-F99D-4EA4-BCC5-2EDAA286D9EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB6CEA6-F99D-4EA4-BCC5-2EDAA286D9EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB6CEA6-F99D-4EA4-BCC5-2EDAA286D9EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
